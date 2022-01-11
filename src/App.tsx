@@ -56,14 +56,14 @@ const App = () => {
   }
 
   return (
-    <div>
+    <div className = "background">
       <div id="mobileNavContainer" className="mobile-nav">
         <div className="mobile-nav-close-button" >
           <img src="/icons/close.svg" alt="" onClick={toggleMenu}/>
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/img/Eikona-Logo.png" alt="" />
+            <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
           </li>
           <li>
             <a href="https://www.eikona.art/">
@@ -92,7 +92,7 @@ const App = () => {
       </div>
       <nav>
         <div className="nav-container">
-          <img className="nav-logo" src="/img/logo.png" alt="" />
+          <img className="nav-logo" src="/img/Eikona-Logo.png" alt="" />
           <a className="hide-800" href="https://www.eikona.art/">
             Website
           </a>
