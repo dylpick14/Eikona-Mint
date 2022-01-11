@@ -92,7 +92,7 @@ const App = () => {
       </div>
       <nav>
         <div className="nav-container">
-          <img className="nav-logo" src="/img/Eikona-Logo.png" alt="" />
+          <img className="nav-logo" src="/img/E_Pindrop.png" alt="" />
           <a className="hide-800" href="https://www.eikona.art/">
             Website
           </a>
