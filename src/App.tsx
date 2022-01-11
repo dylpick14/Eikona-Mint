@@ -66,29 +66,23 @@ const App = () => {
             <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
           </li>
           <li>
-            <a href="/#link1" onClick={toggleMenu}>
-              Link 1
+            <a href="https://www.eikona.art/">
+              Website
             </a>
           </li>
           <li>
-            <a href="/#link2" onClick={toggleMenu}>
-              Link 2
-            </a>
-          </li>
-          <li>
-            <a href="/#link3" onClick={toggleMenu}>
-              Link 3
-            </a>
-          </li>
-          <li>
-            <a href="/#link4" onClick={toggleMenu}>
-              Link 4
+            <a href="https://www.youtube.com/watch?v=X4WZ1OYDmD0&t=1s&ab_channel=EikonaNFT">
+              AR Display Promo
             </a>
           </li>
           <li>
             <div className="social-icons">
+              <a href ="https://twitter.com/EikonaGeofigs">
               <img className="nav-social" src="/icons/twitter.svg" alt="" />
+              </a>
+              <a href="https://discord.gg/TxsYZSEUtp">
               <img className="nav-social" src="/icons/discord.svg" alt="" />
+              </a>
             </div>
           </li>
         </ul>
@@ -99,21 +93,19 @@ const App = () => {
       <nav>
         <div className="nav-container">
           <img className="nav-logo" src="/img/logo.png" alt="" />
-          <a className="hide-800" href="/#link1">
-            Link 1
+          <a className="hide-800" href="https://www.eikona.art/">
+            Website
           </a>
-          <a className="hide-800" href="/#link2">
-            Link 2
-          </a>
-          <a className="hide-800" href="/#link3">
-            Link 3
-          </a>
-          <a className="hide-800" href="/#link4">
-            Link 4
+          <a className="hide-800" href="https://www.youtube.com/watch?v=X4WZ1OYDmD0&t=1s&ab_channel=EikonaNFT">
+            AR Display Promo
           </a>
           <div className="social-icons hide-800">
+          <a href="https://discord.gg/TxsYZSEUtp">
             <img className="nav-social" src="/icons/twitter.svg" alt="" />
+          </a>
+          <a href="https://discord.gg/TxsYZSEUtp">
             <img className="nav-social" src="/icons/discord.svg" alt="" />
+            </a>
           </div>
         </div>
       </nav>
