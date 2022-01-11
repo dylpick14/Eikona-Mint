@@ -56,7 +56,7 @@ const App = () => {
   }
 
   return (
-    <div className = "background">
+    <div>
       <div id="mobileNavContainer" className="mobile-nav">
         <div className="mobile-nav-close-button" >
           <img src="/icons/close.svg" alt="" onClick={toggleMenu}/>
