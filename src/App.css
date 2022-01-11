@@ -264,6 +264,10 @@ header {
   box-shadow: var(--card-shadow);
 }
 
+.background{
+  background-color: #f4f1de ;
+}
+
 .container {
   position: relative;
   margin-top: 40px;
