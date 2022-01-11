@@ -100,7 +100,7 @@ const App = () => {
             AR Display Promo
           </a>
           <div className="social-icons hide-800">
-          <a href="https://discord.gg/TxsYZSEUtp">
+          <a href ="https://twitter.com/EikonaGeofigs">
             <img className="nav-social" src="/icons/twitter.svg" alt="" />
           </a>
           <a href="https://discord.gg/TxsYZSEUtp">
@@ -112,14 +112,10 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="text-secondary-color">Welcome To</h3>
-              <h1 className="pb-3">The Boiler Plate</h1>
+              <h3 className="text-secondary-color">Welcome To -> Wave 3</h3>
+              <h1 className="pb-3">The Boiler Plate -> Eikona</h1>
               <p className="text-secondary-color">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                scelerisque ipsum non est porta mollis. Donec sapien sapien, dictum
-                eget enim sed, hendrerit semper orci. Donec ante magna, consequat at
-                eros ac, eleifend dictum sem. Nam vitae condimentum lorem.
-                Vestibulum molestie dui turpis, tincidunt porta sem congue nec.
+              If you have any questions about our wave 3 mint or project, please checkout our website above or reachout to us via our twitter/discord
               </p>
             </div>
             <div>
@@ -158,46 +154,6 @@ const App = () => {
             dignissim, dolor sed laoreet aliquam, tortor lacus faucibus urna, eget
             mattis massa sem ac dui. Nam semper hendrerit interdum. Etiam at dictum
             nisi.
-          </div>
-
-          <div id="link3" className="container card">
-            <h1 className="pb-3">Lorem ipsum</h1>
-          </div>
-
-          <div id="link4" className="container faq">
-            <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
-            <div>
-              <h4>Lorem ipsum?</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
-              </p>
-
-              <hr />
-            </div>
-
-            <div>
-              <h4>Lorem ipsum?</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
-              </p>
-
-              <hr />
-            </div>
-
-            <div>
-              <h4>Lorem ipsum?</h4>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                id metus id mauris tincidunt posuere. Vivamus neque odio, imperdiet
-                vitae.
-              </p>
-
-              <hr />
-            </div>
           </div>
       </div>
     </div>
