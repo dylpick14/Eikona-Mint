@@ -112,8 +112,8 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="text-secondary-color">Welcome To -> Wave 3</h3>
-              <h1 className="pb-3">The Boiler Plate -> Eikona</h1>
+              <h3 className="text-secondary-color">Wave 3</h3>
+              <h1 className="pb-3">Eikona</h1>
               <p className="text-secondary-color">
               If you have any questions about our wave 3 mint or project, please checkout our website above or reachout to us via our twitter/discord
               </p>
