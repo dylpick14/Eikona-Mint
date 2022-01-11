@@ -112,9 +112,9 @@ const App = () => {
       <div className="content-wrapper">
           <header className="card" id="link1">
             <div style={{ padding: "0 24px 0 24px 0" }}>
-              <h3 className="text-secondary-color">Wave 3</h3>
+              <h3 className="text-primary-color">Wave 3</h3>
               <h1 className="pb-3">Eikona</h1>
-              <p className="text-secondary-color">
+              <p className="text-primary-color">
               If you have any questions about our wave 3 mint or project, please checkout our website above or reachout to us via our twitter/discord
               </p>
             </div>
@@ -141,7 +141,7 @@ const App = () => {
           </header>
 
           <div className="container">
-          Also checkout the video promo for the alpha of AR Display App!
+          <li>Also checkout the video promo for the alpha of AR Display App!</li>
           </div>
       </div>
     </div>
