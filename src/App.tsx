@@ -63,7 +63,7 @@ const App = () => {
         </div>
         <ul>
           <li>
-            <img className="mobile-nav-logo" src="/img/logo.png" alt="" />
+            <img className="mobile-nav-logo" src="/img/Eikona-Logo.png" alt="" />
           </li>
           <li>
             <a href="https://www.eikona.art/">
